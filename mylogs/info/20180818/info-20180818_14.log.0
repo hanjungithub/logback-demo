@@ -1,0 +1,33 @@
+2018-08-18 14:19:11.610 [main] INFO  c.e.l.LogbackDemoApplication -Starting LogbackDemoApplication on SKY-20120726SWG with PID 11028 (C:\Users\Administrator\Desktop\logback-demo\target\classes started by Administrator in C:\Users\Administrator\Desktop\logback-demo)
+2018-08-18 14:19:11.615 [main] INFO  c.e.l.LogbackDemoApplication -No active profile set, falling back to default profiles: default
+2018-08-18 14:19:12.883 [main] INFO  o.a.catalina.core.StandardService -Starting service [Tomcat]
+2018-08-18 14:19:12.886 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.32
+2018-08-18 14:19:12.893 [localhost-startStop-1] INFO  o.a.c.core.AprLifecycleListener -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;d:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\developTools\apache-maven-3.5.4\bin;.]
+2018-08-18 14:19:13.017 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2018-08-18 14:19:13.018 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1349 ms
+2018-08-18 14:19:13.242 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-18 14:19:13.431 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@243c4f91: startup date [Sat Aug 18 14:19:11 CST 2018]; root of context hierarchy
+2018-08-18 14:19:13.495 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-08-18 14:19:13.497 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-08-18 14:19:13.521 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-18 14:19:13.521 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-08-18 14:19:13.675 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2018-08-18 14:19:13.720 [main] INFO  c.e.l.LogbackDemoApplication -Started LogbackDemoApplication in 2.582 seconds (JVM running for 3.295)
+2018-08-18 14:19:18.724 [main] INFO  c.e.l.LogbackDemoApplication -输出info：0
+2018-08-18 14:19:18.727 [main] ERROR c.e.l.LogbackDemoApplication -输出error:0
+2018-08-18 14:19:23.727 [main] INFO  c.e.l.LogbackDemoApplication -输出info：1
+2018-08-18 14:19:23.729 [main] ERROR c.e.l.LogbackDemoApplication -输出error:1
+2018-08-18 14:19:28.731 [main] INFO  c.e.l.LogbackDemoApplication -输出info：2
+2018-08-18 14:19:28.733 [main] ERROR c.e.l.LogbackDemoApplication -输出error:2
+2018-08-18 14:19:33.734 [main] INFO  c.e.l.LogbackDemoApplication -输出info：3
+2018-08-18 14:19:33.736 [main] ERROR c.e.l.LogbackDemoApplication -输出error:3
+2018-08-18 14:59:36.542 [main] INFO  c.e.l.LogbackDemoApplication -输出info：4
+2018-08-18 14:59:36.542 [main] ERROR c.e.l.LogbackDemoApplication -输出error:4
+2018-08-18 14:59:41.543 [main] INFO  c.e.l.LogbackDemoApplication -输出info：5
+2018-08-18 14:59:41.545 [main] ERROR c.e.l.LogbackDemoApplication -输出error:5
+2018-08-18 14:59:46.546 [main] INFO  c.e.l.LogbackDemoApplication -输出info：6
+2018-08-18 14:59:46.548 [main] ERROR c.e.l.LogbackDemoApplication -输出error:6
+2018-08-18 14:59:51.549 [main] INFO  c.e.l.LogbackDemoApplication -输出info：7
+2018-08-18 14:59:51.550 [main] ERROR c.e.l.LogbackDemoApplication -输出error:7
+2018-08-18 14:59:56.550 [main] INFO  c.e.l.LogbackDemoApplication -输出info：8
+2018-08-18 14:59:56.552 [main] ERROR c.e.l.LogbackDemoApplication -输出error:8

@@ -1,0 +1,9 @@
+2018-08-18 14:19:18.727 [main] ERROR c.e.l.LogbackDemoApplication -输出error:0
+2018-08-18 14:19:23.729 [main] ERROR c.e.l.LogbackDemoApplication -输出error:1
+2018-08-18 14:19:28.733 [main] ERROR c.e.l.LogbackDemoApplication -输出error:2
+2018-08-18 14:19:33.736 [main] ERROR c.e.l.LogbackDemoApplication -输出error:3
+2018-08-18 14:59:36.542 [main] ERROR c.e.l.LogbackDemoApplication -输出error:4
+2018-08-18 14:59:41.545 [main] ERROR c.e.l.LogbackDemoApplication -输出error:5
+2018-08-18 14:59:46.548 [main] ERROR c.e.l.LogbackDemoApplication -输出error:6
+2018-08-18 14:59:51.550 [main] ERROR c.e.l.LogbackDemoApplication -输出error:7
+2018-08-18 14:59:56.552 [main] ERROR c.e.l.LogbackDemoApplication -输出error:8

@@ -1,0 +1,6 @@
+2018-08-18 15:00:01.569 [main] ERROR c.e.l.LogbackDemoApplication -输出error:9
+2018-08-18 15:00:06.587 [main] ERROR c.e.l.LogbackDemoApplication -输出error:10
+2018-08-18 15:00:11.590 [main] ERROR c.e.l.LogbackDemoApplication -输出error:11
+2018-08-18 15:00:16.593 [main] ERROR c.e.l.LogbackDemoApplication -输出error:12
+2018-08-18 15:00:21.597 [main] ERROR c.e.l.LogbackDemoApplication -输出error:13
+2018-08-18 15:00:26.601 [main] ERROR c.e.l.LogbackDemoApplication -输出error:14
